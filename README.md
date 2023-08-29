@@ -23,7 +23,7 @@ Password: 0lelplR
 
 ## For online use
 
-Link: https://webe-commerce.netlify.app/
+Link: https://datumbarin.netlify.app/
 
 ## Developed by Muhammad Afaq
 
